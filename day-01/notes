@@ -1,0 +1,26 @@
+# Day 1: Understanding Data Engineering
+  ## Key learnings
+  - Data engineers build and maintain data pipelines
+  - ETL/ELT processes are core to data engineering
+  - Cloud platforms are essential in modern data engineering
+  - Python and SQl are fundamental skills
+
+  ## Important Concepts
+
+  - **Data Pipelines** : Automated flow of data from source to destination
+  - **ETL**: Extract, Transform, Load - traditional approach
+  - **ELT**: Extract, Load, Transform - modern cloud approach
+  - **Data Lake**: Storage for raw data in various formats
+  - **Data Warehouse**: Structured storage optimized for analytics
+
+    ## Questions for Tomorrow
+     - How do I choose between ETL and ELT?
+     - What makes a good data pipeline?
+     - Which cloud platform should I focus on first?
+
+    ## Resources Used
+     - Fundamentals of Data Enigeering by Joe Reis & att Housley on O'Reilly
+             - Chapter 1 (focus: Understanding the data enigneering landscape)
+    - Designing Data-Intensive Applications by Martin Kleppmann
+    
+    - Video: " What is Data Engineering?" by Seattle Data Guy
